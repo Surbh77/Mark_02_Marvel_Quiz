@@ -23,8 +23,8 @@ var questionfive = {
   answer: 'Mjollnir'
 }
 var questionsix = {
-  question: 'What is the name of Captain America? ',
-  answer: 'Steve Rogers'
+  question: 'What is the name of Strongest Avenger? ',
+  answer: 'Thor'
 }
 var questionseven = {
   question: 'How many stones are in the Avengers movie? ',
