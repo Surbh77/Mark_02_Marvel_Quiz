@@ -36,7 +36,7 @@ var questioneight = {
 }
 var questionnine = {
   question: 'Who is daughter of thanos? ',
-  answer: 'Gamors'
+  answer: 'Gamora'
 }
 
 var questionten = {
